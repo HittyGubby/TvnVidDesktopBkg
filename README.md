@@ -7,7 +7,7 @@ and for a better performance, suggest to fullscreen and launch(automation not in
 
 Anyways ENJOY :)
 
-#Bugs
+***Bugs***
 
 Current Bugs: Cannot use keyboard input when fullscreen (Progman limits)
                     Glitches exiting, icon layer displacements, etc.
