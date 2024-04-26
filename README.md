@@ -1,4 +1,4 @@
-# TvnVidDesktopBkg
+# TightVNC as Dynamic Desktop
 TightVNC remote desktop as your windows dynamic desktop!
 
 Currently doesnt support multi-window backgrounding, and not about to do so
