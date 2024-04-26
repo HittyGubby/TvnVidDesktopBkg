@@ -11,6 +11,6 @@ Anyways ENJOY :)
 
 Current Bugs: Cannot use keyboard input when fullscreen (Progman limits)
 
-                    Glitches exiting, icon layer displacements, etc.
+Glitches exiting, icon layer displacements, etc.
                     
-                  (plzplz just ignore like .gitignore meow
+(plzplz just ignore like .gitignore meow %neko_nya%
